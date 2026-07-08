@@ -7,7 +7,7 @@ public:
         vector<int> ans(n);
 
         stack<int> st;
-
+    //Last Element index will be 2*n-1
         for(int i = 2 * n - 1; i >= 0; i--) {
 
             while(!st.empty() && st.top() <= nums[i % n]) {
