@@ -14,6 +14,7 @@
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
@@ -24,6 +25,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0239-sliding-window-maximum](https://github.com/VinayM1/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -124,5 +127,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
