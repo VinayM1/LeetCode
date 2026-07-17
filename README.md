@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VinayM1/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
