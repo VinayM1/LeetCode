@@ -11,6 +11,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/VinayM1/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -32,6 +33,7 @@
 | [0076-minimum-window-substring](https://github.com/VinayM1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -171,6 +173,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayM1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
@@ -285,6 +288,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -300,6 +304,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
