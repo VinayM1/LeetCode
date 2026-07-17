@@ -10,6 +10,7 @@
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/VinayM1/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -292,6 +293,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/VinayM1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
