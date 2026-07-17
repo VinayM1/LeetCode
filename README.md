@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VinayM1/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayM1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VinayM1/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -132,6 +134,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
