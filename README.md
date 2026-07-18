@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/VinayM1/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/VinayM1/LeetCode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VinayM1/LeetCode/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
