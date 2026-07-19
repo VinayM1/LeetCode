@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/VinayM1/LeetCode/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/VinayM1/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/VinayM1/LeetCode/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
