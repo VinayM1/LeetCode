@@ -57,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/VinayM1/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
 |  |
@@ -373,4 +375,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
