@@ -112,6 +112,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VinayM1/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/VinayM1/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VinayM1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/VinayM1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/VinayM1/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -134,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
@@ -327,6 +329,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/VinayM1/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
