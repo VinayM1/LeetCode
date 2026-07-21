@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/VinayM1/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayM1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/VinayM1/LeetCode/tree/master/0090-subsets-ii) |
@@ -121,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/VinayM1/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/VinayM1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/VinayM1/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/VinayM1/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
@@ -251,6 +254,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/VinayM1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/VinayM1/LeetCode/tree/master/0099-recover-binary-search-tree) |
@@ -343,6 +347,7 @@
 | [0039-combination-sum](https://github.com/VinayM1/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VinayM1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/VinayM1/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VinayM1/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VinayM1/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/VinayM1/LeetCode/tree/master/0216-combination-sum-iii) |
