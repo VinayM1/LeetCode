@@ -81,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/VinayM1/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VinayM1/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
@@ -134,6 +135,7 @@
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/VinayM1/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -159,6 +161,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/VinayM1/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
+| [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
