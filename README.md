@@ -29,6 +29,7 @@
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/VinayM1/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -172,6 +173,7 @@
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0547-number-of-provinces](https://github.com/VinayM1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/VinayM1/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -340,6 +343,7 @@
 | [0547-number-of-provinces](https://github.com/VinayM1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/VinayM1/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -436,6 +440,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VinayM1/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VinayM1/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
