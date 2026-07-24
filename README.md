@@ -105,6 +105,7 @@
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/VinayM1/LeetCode/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -140,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
