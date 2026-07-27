@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VinayM1/LeetCode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/VinayM1/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayM1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -367,6 +368,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
