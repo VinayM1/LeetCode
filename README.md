@@ -30,6 +30,7 @@
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/VinayM1/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
@@ -169,6 +170,7 @@
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
 | [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
 |  |
@@ -184,6 +186,7 @@
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VinayM1/LeetCode/tree/master/0994-rotting-oranges) |
@@ -356,6 +359,7 @@
 | [0207-course-schedule](https://github.com/VinayM1/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/VinayM1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
