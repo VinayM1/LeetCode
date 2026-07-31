@@ -1,56 +1,55 @@
 class Solution {
 public:
 
-    bool dfs(int node, vector<vector<int>>& adj,
-             vector<int>& vis, vector<int>& pathVis)
+    bool canFinish(int numCourses,
+                   vector<vector<int>>& prerequisites)
     {
-        vis[node] = 1;
-        pathVis[node] = 1;
-
-        for(int i = 0; i < adj[node].size(); i++)
-        {
-            int neighbour = adj[node][i];
-
-            if(!vis[neighbour])
-            {
-                if(dfs(neighbour, adj, vis, pathVis))
-                    return true;
-            }
-            else if(pathVis[neighbour])
-            {
-                return true;
-            }
-        }
-
-        pathVis[node] = 0;
-
-        return false;
-    }
-
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-
         vector<vector<int>> adj(numCourses);
 
-        for(int i = 0; i < prerequisites.size(); i++)
-        {
-            int a = prerequisites[i][0];
-            int b = prerequisites[i][1];
+        vector<int> indegree(numCourses,0);
 
-            adj[b].push_back(a);
+        for(int i=0;i<prerequisites.size();i++)
+        {
+            int course=prerequisites[i][0];
+            int prerequisite=prerequisites[i][1];
+
+            adj[prerequisite].push_back(course);
+
+            indegree[course]++;
         }
 
-        vector<int> vis(numCourses, 0);
-        vector<int> pathVis(numCourses, 0);
+        queue<int> q;
 
-        for(int i = 0; i < numCourses; i++)
+        for(int i=0;i<numCourses;i++)
         {
-            if(!vis[i])
+            if(indegree[i]==0)
             {
-                if(dfs(i, adj, vis, pathVis))
-                    return false;
+                q.push(i);
             }
         }
 
-        return true;
+        int count=0;
+
+        while(!q.empty())
+        {
+            int node=q.front();
+            q.pop();
+
+            count++;
+
+            for(int i=0;i<adj[node].size();i++)
+            {
+                int neighbour=adj[node][i];
+
+                indegree[neighbour]--;
+
+                if(indegree[neighbour]==0)
+                {
+                    q.push(neighbour);
+                }
+            }
+        }
+
+        return count==numCourses;
     }
 };
