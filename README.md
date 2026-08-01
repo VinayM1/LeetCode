@@ -43,6 +43,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/VinayM1/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VinayM1/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VinayM1/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -199,6 +200,7 @@
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/VinayM1/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/VinayM1/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VinayM1/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 ## Sliding Window
 |  |
@@ -391,6 +393,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/VinayM1/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/VinayM1/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VinayM1/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VinayM1/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/VinayM1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
