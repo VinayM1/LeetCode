@@ -34,6 +34,7 @@
 | [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/VinayM1/LeetCode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -66,6 +67,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -155,6 +157,7 @@
 | [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/VinayM1/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
@@ -330,6 +333,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VinayM1/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -405,6 +409,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/VinayM1/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/VinayM1/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
@@ -427,6 +432,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/VinayM1/LeetCode/tree/master/0169-majority-element) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -518,6 +524,7 @@
 | [0130-surrounded-regions](https://github.com/VinayM1/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/VinayM1/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VinayM1/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/VinayM1/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/VinayM1/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
