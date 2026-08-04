@@ -84,6 +84,7 @@
 | [0009-palindrome-number](https://github.com/VinayM1/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VinayM1/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -516,6 +518,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 ## Trie
