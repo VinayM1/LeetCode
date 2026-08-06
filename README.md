@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/VinayM1/LeetCode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/VinayM1/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VinayM1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -185,6 +186,7 @@
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/VinayM1/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/VinayM1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/VinayM1/LeetCode/tree/master/0130-surrounded-regions) |
