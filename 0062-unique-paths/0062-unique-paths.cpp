@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int uniquePaths(int m, int n)
+    /*int uniquePaths(int m, int n)
     {
         vector<vector<int>> dp(m, vector<int>(n, 0));
 
@@ -30,8 +30,8 @@ public:
 
         return dp[m-1][n-1];
     }
-};
-    /*int Solve(int m, int n, vector<vector<int>>& dp)
+};*/
+    int Solve(int m, int n, vector<vector<int>>& dp)
     {   
         if(m == 0 && n == 0)
             return 1;
@@ -55,4 +55,4 @@ public:
     {   vector<vector<int>>dp(m,vector<int>(n,-1));
         return Solve(m-1, n-1,dp);
     }
-};*/
+};
