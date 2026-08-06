@@ -21,6 +21,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/VinayM1/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/VinayM1/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
@@ -190,6 +191,7 @@
 | [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/VinayM1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/VinayM1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/VinayM1/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/VinayM1/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
