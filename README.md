@@ -33,6 +33,7 @@
 | [0216-combination-sum-iii](https://github.com/VinayM1/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/VinayM1/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/VinayM1/LeetCode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -198,6 +199,7 @@
 | [0198-house-robber](https://github.com/VinayM1/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VinayM1/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VinayM1/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -592,4 +594,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VinayM1/LeetCode/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
