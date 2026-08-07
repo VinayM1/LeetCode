@@ -37,6 +37,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/VinayM1/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/VinayM1/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
@@ -206,6 +207,7 @@
 | [0322-coin-change](https://github.com/VinayM1/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/VinayM1/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VinayM1/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/VinayM1/LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VinayM1/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -483,6 +485,7 @@
 | [0140-word-break-ii](https://github.com/VinayM1/LeetCode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/VinayM1/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/VinayM1/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/VinayM1/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -610,10 +613,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/VinayM1/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VinayM1/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/VinayM1/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/VinayM1/LeetCode/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
