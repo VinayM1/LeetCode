@@ -59,6 +59,7 @@
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/VinayM1/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/VinayM1/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
@@ -460,6 +463,7 @@
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
