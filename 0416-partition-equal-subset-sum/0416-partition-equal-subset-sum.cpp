@@ -17,42 +17,43 @@ public:
 
         int target = sum / 2;
 
-        vector<vector<bool>> dp(n, vector<bool>(target + 1, false));
+        vector<bool> prev(target + 1, false);
 
         // Base Case 1
-        for(int i = 0; i < n; i++)
-        {
-            dp[i][0] = true;
-        }
+        prev[0] = true;
 
         // Base Case 2
         if(nums[0] <= target)
         {
-            dp[0][nums[0]] = true;
+            prev[nums[0]] = true;
         }
 
-        // Fill DP Table
         for(int index = 1; index < n; index++)
         {
+            vector<bool> curr(target + 1, false);
+
+            curr[0] = true;
+
             for(int t = 1; t <= target; t++)
             {
-                bool notTake = dp[index - 1][t];
+                bool notTake = prev[t];
 
                 bool take = false;
 
                 if(nums[index] <= t)
                 {
-                    take = dp[index - 1][t - nums[index]];
+                    take = prev[t - nums[index]];
                 }
 
-                dp[index][t] = take || notTake;
+                curr[t] = take || notTake;
             }
+
+            prev = curr;
         }
 
-        return dp[n - 1][target];
+        return prev[target];
     }
 };
-
 /*class Solution {
 public:
     bool Solve(int index,int target, vector<int>& nums,vector<vector<int>>& dp){
