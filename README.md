@@ -55,6 +55,7 @@
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/VinayM1/LeetCode/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/VinayM1/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayM1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -256,6 +257,7 @@
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VinayM1/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/VinayM1/LeetCode/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
