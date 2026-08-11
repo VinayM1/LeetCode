@@ -67,6 +67,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/VinayM1/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VinayM1/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -250,6 +251,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VinayM1/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VinayM1/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/VinayM1/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
@@ -511,6 +513,7 @@
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
