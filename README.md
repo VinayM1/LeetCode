@@ -98,6 +98,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/VinayM1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VinayM1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +199,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VinayM1/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VinayM1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VinayM1/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/VinayM1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
