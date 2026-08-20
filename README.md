@@ -72,6 +72,7 @@
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
