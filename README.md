@@ -62,6 +62,7 @@
 | [0860-lemonade-change](https://github.com/VinayM1/LeetCode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/VinayM1/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/VinayM1/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/VinayM1/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/VinayM1/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -116,6 +117,7 @@
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/VinayM1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/VinayM1/LeetCode/tree/master/1922-count-good-numbers) |
@@ -324,6 +326,7 @@
 | [0743-network-delay-time](https://github.com/VinayM1/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/VinayM1/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
@@ -533,6 +536,7 @@
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/VinayM1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -570,6 +574,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VinayM1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VinayM1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -714,8 +719,17 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VinayM1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VinayM1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VinayM1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
