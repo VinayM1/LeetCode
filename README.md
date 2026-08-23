@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VinayM1/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/VinayM1/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/VinayM1/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -230,6 +231,7 @@
 | [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/VinayM1/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/VinayM1/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VinayM1/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VinayM1/LeetCode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/VinayM1/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VinayM1/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/VinayM1/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/VinayM1/LeetCode/tree/master/0455-assign-cookies) |
