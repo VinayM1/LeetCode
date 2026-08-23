@@ -1,32 +1,35 @@
 class Solution {
 public:
-    bool Solve(string s,int i,int count,vector<vector<int>>& dp){
-        int n = s.size();
-        if(count<0){
-            return false;
-        }
-        if(i == n){
-            return count == 0;
-        }
-        if(dp[i][count] != -1){
-            return dp[i][count];
+    bool checkValidString(string s) {
+        int minCount = 0;
+        int maxCount = 0;
+
+        for (char c : s) {
+
+            if (c == '(') {
+                minCount++;
+                maxCount++;
+            }
+
+            else if (c == ')') {
+                minCount--;
+                maxCount--;
+            }
+
+            else { // '*'
+                minCount--; // '*' = ')'
+                maxCount++; // '*' = '('
+            }
+
+            // Even the maximum possible count is negative
+            if (maxCount < 0) {
+                return false;
+            }
+
+            // Minimum cannot go below 0
+            minCount = max(0, minCount);
         }
 
-            if(s[i] == '('){
-                return dp[i][count] = Solve(s,i+1,count+1,dp);
-            }
-            if(s[i] == ')'){
-                return dp[i][count] = Solve(s,i+1,count-1,dp);
-            }
-            if (s[i] == '*'){
-                return dp[i][count] = Solve(s,i+1,count+1,dp) || Solve(s,i+1,count-1,dp) || Solve(s,i+1,count,dp);
-            }
-            return false;
-    }
-    bool checkValidString(string s) {
-        int n = s.size();
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-        int count = 0;
-        return Solve(s,0,count,dp);
+        return minCount == 0;
     }
 };
