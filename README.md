@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/VinayM1/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/VinayM1/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/VinayM1/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/VinayM1/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/VinayM1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/VinayM1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/VinayM1/LeetCode/tree/master/0078-subsets) |
