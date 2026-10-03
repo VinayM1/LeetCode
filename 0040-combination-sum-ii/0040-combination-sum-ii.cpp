@@ -1,33 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-    void solve(int index , vector<int>& candidates, int target , vector<int>& subset){
-         
-        if(target < 0)
-            return;
+    vector<int> path;
+    
+    void solve(vector<int>& candidates , int target , int index){
+        
+        int n = candidates.size();
         if(target == 0){
-            ans.push_back(subset);
+            ans.push_back(path);
             return;
         }
-        for(int i = index ; i<candidates.size(); i++){
-            if(i>index && candidates[i]==candidates[i-1]){
-                continue;
-            }
-            if(candidates[i] > target){
+        for(int i = index;i<n;i++){
+            if (i > index && candidates[i] == candidates[i-1]) continue;
+            if(target<candidates[i]){
                 break;
             }
-                subset.push_back(candidates[i]);
-                solve(i+1,candidates,target-candidates[i],subset);
-                subset.pop_back();
+            path.push_back(candidates[i]);
+            solve(candidates,target-candidates[i],i+1);
+            path.pop_back();
         }
-            
     }
-    
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
-        vector<int> subset;
-        solve(0,candidates,target,subset);
+        sort(candidates.begin(),candidates.end());
+        solve(candidates,target,0);
         return ans;
-        
     }
 };
