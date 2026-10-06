@@ -172,6 +172,7 @@
 | [0503-next-greater-element-ii](https://github.com/VinayM1/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/VinayM1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/VinayM1/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/VinayM1/LeetCode/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -222,6 +223,7 @@
 | [0678-valid-parenthesis-string](https://github.com/VinayM1/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/VinayM1/LeetCode/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/VinayM1/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/VinayM1/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/VinayM1/LeetCode/tree/master/1092-shortest-common-supersequence) |
@@ -779,6 +781,7 @@
 | [0022-generate-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VinayM1/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
