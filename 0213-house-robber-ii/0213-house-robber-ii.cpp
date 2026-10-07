@@ -1,53 +1,27 @@
 class Solution {
 public:
-
-    int solve(vector<int>& nums)
-    {
+    int solve(vector<int>& nums, int index,int end,vector<int>& dp){
         int n = nums.size();
-
-        if(n == 1)
-            return nums[0];
-
-        int prev2 = 0;
-        int prev1 = nums[0];
-
-        for(int i = 1; i < n; i++)
-        {
-            int take = nums[i];
-
-            if(i > 1)
-                take += prev2;
-
-            int notTake = prev1;
-
-            int curr = max(take, notTake);
-
-            prev2 = prev1;
-            prev1 = curr;
+        if(index>end){
+            return 0;
         }
-
-        return prev1;
+        if(dp[index] != -1){
+            return dp[index];
+        }
+        int take = nums[index] + solve(nums,index+2,end,dp);
+        int nottake = solve(nums,index+1,end,dp);
+        dp[index] = max(nottake,take);
+        return dp[index];
     }
-
-    int rob(vector<int>& nums)
-    {
+    int rob(vector<int>& nums) {
         int n = nums.size();
-
-        if(n == 1)
+        vector<int>dp(n,-1);
+        if(n == 1){
             return nums[0];
-
-        vector<int> temp1;
-        vector<int> temp2;
-
-        for(int i = 0; i < n; i++)
-        {
-            if(i != n-1)
-                temp1.push_back(nums[i]);
-
-            if(i != 0)
-                temp2.push_back(nums[i]);
         }
-
-        return max(solve(temp1), solve(temp2));
+        int case1 = solve(nums,0,n-2,dp);
+        fill(dp.begin(), dp.end(), -1);
+        int case2 = solve(nums,1,n-1,dp);
+        return max(case1,case2);
     }
 };
