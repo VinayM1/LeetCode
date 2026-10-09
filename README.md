@@ -177,6 +177,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VinayM1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VinayM1/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VinayM1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -232,6 +233,7 @@
 | [1092-shortest-common-supersequence](https://github.com/VinayM1/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/VinayM1/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VinayM1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VinayM1/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VinayM1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -314,6 +316,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VinayM1/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/VinayM1/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VinayM1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VinayM1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
@@ -790,6 +793,7 @@
 | [0856-score-of-parentheses](https://github.com/VinayM1/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VinayM1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VinayM1/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VinayM1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Enumeration
 |  |
 | ------- |
