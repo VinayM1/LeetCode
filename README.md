@@ -81,6 +81,7 @@
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/VinayM1/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -318,6 +319,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VinayM1/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VinayM1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
@@ -367,6 +369,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/VinayM1/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | [0778-swim-in-rising-water](https://github.com/VinayM1/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/VinayM1/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/VinayM1/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -585,6 +589,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/VinayM1/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
