@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VinayM1/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/VinayM1/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/VinayM1/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/VinayM1/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VinayM1/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -382,6 +383,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/VinayM1/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinayM1/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/VinayM1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
