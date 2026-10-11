@@ -83,6 +83,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/VinayM1/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VinayM1/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -802,5 +803,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VinayM1/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
