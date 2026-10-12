@@ -86,6 +86,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VinayM1/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -119,6 +120,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/VinayM1/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayM1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/VinayM1/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/VinayM1/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -324,6 +326,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -624,6 +627,7 @@
 | [0090-subsets-ii](https://github.com/VinayM1/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/VinayM1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
