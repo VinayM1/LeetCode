@@ -141,6 +141,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/VinayM1/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/VinayM1/LeetCode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VinayM1/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VinayM1/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/VinayM1/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/VinayM1/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VinayM1/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -329,6 +330,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VinayM1/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
