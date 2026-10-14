@@ -91,6 +91,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VinayM1/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/VinayM1/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/VinayM1/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VinayM1/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -328,6 +329,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -601,6 +603,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/VinayM1/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VinayM1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/VinayM1/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
