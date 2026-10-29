@@ -397,6 +397,7 @@
 | [0035-search-insert-position](https://github.com/VinayM1/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VinayM1/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/VinayM1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/VinayM1/LeetCode/tree/master/0278-first-bad-version) |
 | [0493-reverse-pairs](https://github.com/VinayM1/LeetCode/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/VinayM1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/VinayM1/LeetCode/tree/master/0704-binary-search) |
@@ -820,4 +821,8 @@
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VinayM1/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/VinayM1/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
