@@ -135,6 +135,7 @@
 | [0062-unique-paths](https://github.com/VinayM1/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VinayM1/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/VinayM1/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/VinayM1/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/VinayM1/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/VinayM1/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -637,6 +638,7 @@
 | [0090-subsets-ii](https://github.com/VinayM1/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VinayM1/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/VinayM1/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/VinayM1/LeetCode/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/VinayM1/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VinayM1/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -693,6 +695,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/VinayM1/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/VinayM1/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/VinayM1/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/VinayM1/LeetCode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/VinayM1/LeetCode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VinayM1/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
